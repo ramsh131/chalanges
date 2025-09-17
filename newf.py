@@ -1,34 +1,34 @@
-a = 5
-b = 5
-print(a == b)
-a = 4
-b = 7
-print(a != b)
-a = 6
-b = 4
-print(a != b)
-a = 5
-b = 3
-print(a > b)
-a = 9
-b = 4
-print(a > b)
-a = 2
-b = 5
-print(a > b)
-a = 3
-b = 8
-print(a < b)
-a = 12
-b = 4
-print(a < b)
-a = 5
-b = 8
-if a > b :
-    print(a is largest )
-        
-else:
-     print(b is largest)
- num = 56
- if num % 2 == 0:
-    print()   
+# sub1 = 78
+# sub2 = 85
+# sub3 = 92
+# sub4 = 74
+# sub5 = 88
+
+# Total mark = sub1 + sub2 + sub3 + sub4 + sub5 +
+# percenatag = total marks /5 
+# print("Totel marks:500")
+# print("persentage :'persentage '%")
+
+  
+
+#  if  persantage >= 90  and persentage <= 100 :
+#      print ('grade A+')
+     
+#  elif persantage >= 80 and persantage <= 90 :
+#      print('grade A') 
+     
+#  elif persantage >= 70 and   persentage <= 80
+#      print('grade B')
+     
+#  elif persentage >= 60 persentage  and persentage <= 70
+#      print('Grade C')
+     
+#  elif persentage >= 50 persentage  and persentage <= 60
+#      print('Grade D')    
+     
+  
+  
+#  else:
+#      print('Grade F')   
+     
+     
